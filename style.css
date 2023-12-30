@@ -4,32 +4,45 @@ body {
 
 .slide {
     height: 100vh;
+
 }
 
 #hero {
-    background: url('hero_bg.jpg') no-repeat;
+    background: url('assets/hero_bg.jpg') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+#slide1 {
+    background: url('assets/bertie_the_brain.jpg') no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 
-#slide1 {
-    background-color: rgb(204, 204, 204);
-}
-
 #slide2 {
-    background-color: rgb(133, 133, 133);
+    background: url('assets/spacewar.jpg') no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    /* background-position: center; */
 }
 
 #slide3 {
-    background-color: rgb(204, 204, 204);
+    background: url('assets/magnavox_odyssey.png') no-repeat;
+    background-size: cover; /* contain */ 
+    background-attachment: fixed;
+    /* background-position: center; */
 }
 
 #slide4 {
-    background-color: rgb(133, 133, 133);
-}
+    background: url('assets/golden_arcade_age.jpg') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;}
 
 #slide5 {
-    background-color: rgb(204, 204, 204);
+    background: url('assets/atari_shock.png') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 #slide6 {
@@ -41,23 +54,32 @@ body {
 }
 
 #slide8 {
-    background-color: rgb(133, 133, 133);
+    background: url('assets/super_mario_64.jpg') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 #slide9 {
-    background-color: rgb(204, 204, 204);
+    background: url('assets/spasim.jpg') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 #slide10 {
-    background-color: rgb(133, 133, 133);
+    background: url('assets/smartphone_gaming.jpg') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 #slide11 {
-    background-color: rgb(204, 204, 204);
-}
+    background: url('assets/vr_gaming.jpg') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;}
 
 #slide12 {
-    background-color: rgb(133, 133, 133);
+    background: url('assets/raytracing.jpg') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 #footer {
