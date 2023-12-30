@@ -1,2 +1,3 @@
 # Parallax
-Learning to code a parallax website
+Learning to code a parallax website. 
+Interesting
