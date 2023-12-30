@@ -1,0 +1,69 @@
+body {
+    margin: 0px;
+}
+
+.slide {
+    height: 100vh;
+}
+
+#hero {
+    background: url('hero_bg.jpg') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#slide1 {
+    background-color: rgb(204, 204, 204);
+}
+
+#slide2 {
+    background-color: rgb(133, 133, 133);
+}
+
+#slide3 {
+    background-color: rgb(204, 204, 204);
+}
+
+#slide4 {
+    background-color: rgb(133, 133, 133);
+}
+
+#slide5 {
+    background-color: rgb(204, 204, 204);
+}
+
+#slide6 {
+    background-color: rgb(133, 133, 133);
+}
+
+#slide7 {
+    background-color: rgb(204, 204, 204);
+}
+
+#slide8 {
+    background-color: rgb(133, 133, 133);
+}
+
+#slide9 {
+    background-color: rgb(204, 204, 204);
+}
+
+#slide10 {
+    background-color: rgb(133, 133, 133);
+}
+
+#slide11 {
+    background-color: rgb(204, 204, 204);
+}
+
+#slide12 {
+    background-color: rgb(133, 133, 133);
+}
+
+#footer {
+    background-color: rgb(133, 133, 133);
+}
+
+h1 {
+    margin: 0px;
+}
